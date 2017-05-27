@@ -1,0 +1,4 @@
+from predict_pb2 import PredictRequest, PredictResponse
+from prediction_service_pb2 import PredictionServiceStub
+from prediction_service_pb2 import beta_create_PredictionService_stub
+
